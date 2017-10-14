@@ -71,8 +71,7 @@
 - [Franz](http://meetfranz.com/) - Multi-provider chat client, supports WhatsApp, Telegram, Slack, Discord and so much more. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
 - [Textual](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
-- [WhatsApp](https://www.whatsapp.com/download/) - The official WhatsApp client for macOS.
-
+- [WhatsApp](https://www.whatsapp.com/download/) - The official WhatsApp client for macOS. ![Freeware][Freeware Icon]
 
 ### Data Recovery
 
